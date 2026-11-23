@@ -1,0 +1,14 @@
+# Dependencias del proyecto (sin versiones fijadas).
+# Para reproducibilidad exacta, reemplaza cada línea por la versión que usaste en Colab
+# (ejecuta en una celda: !pip list | grep -iE "^(torch|transformers|datasets|scikit-learn|pandas|pyarrow|gradio|accelerate|matplotlib|joblib|huggingface-hub) ")
+torch
+transformers
+datasets
+accelerate
+huggingface_hub
+scikit-learn
+pandas
+pyarrow
+matplotlib
+joblib
+gradio
