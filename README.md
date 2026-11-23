@@ -25,15 +25,15 @@ Conjunto de prueba: 7.324 quejas, 7 temas. Una sola corrida, semilla 42.
 
 ```
 .
-├── notebook.ipynb                 # Código completo (Colab): datos, baseline, DistilBERT, urgencia/SLA y demo
+├── Plataforma_para_clasificación_y_priorización_de_solicitudes_ciudadanas.ipynb                  # Código completo (Colab): datos, baseline, DistilBERT, urgencia/SLA y demo
 ├── README.md
-├── DATA_CARD.md                   # Procedencia, procesamiento y limitaciones de los datos
+├── DATA_CARD.md                                                                                  # Procedencia, procesamiento y limitaciones de los datos
 ├── requirements.txt
 └── docs/
     ├── Articulo_Clasificacion_Solicitudes.docx
-    ├── cm_baseline.png            # Matriz de confusión del baseline
-    ├── cm_distilbert.png          # Matriz de confusión de DistilBERT
-    ├── demo_1.png                 # Capturas de la demo
+    ├── cm_baseline.png                                                                           # Matriz de confusión del baseline
+    ├── cm_distilbert.png                                                                         # Matriz de confusión de DistilBERT
+    ├── demo_1.png                                                                                # Capturas de la demo
     └── demo_2.png
 ```
 
